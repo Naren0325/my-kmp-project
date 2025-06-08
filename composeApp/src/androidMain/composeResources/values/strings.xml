@@ -1,0 +1,16 @@
+<!-- strings.xml -->
+<resources>
+
+    <string name="items_total">Items Total</string>
+    <string name="tax">tax</string>
+    <string name="discount">Discount</string>
+    <string name="service_charge">Service Charge</string>
+    <string name="pay">Pay</string>
+    <string name="paid">Paid</string>
+    <string name="split_bill">Split Bill</string>
+    <string name="person">Person</string>
+    <string name="avoid">Avoid</string>
+    <string name="no_voided_items">No Voided Items</string>
+
+</resources>
+
